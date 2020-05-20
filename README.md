@@ -1,4 +1,4 @@
-# CS4642 DailyMirror-Tech
+# TecNews - Indexer
 
 This repository contains the script to crawl the code from the DialyMirror new website to create the dump contents. 
 Please find the dumbed files from the outputs folder in this repository. 
